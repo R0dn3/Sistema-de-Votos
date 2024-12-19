@@ -1,0 +1,2 @@
+1,Mesa C,PCTE,Abstenidos,2
+1,Mesa U,PUEDE,Validos,2
